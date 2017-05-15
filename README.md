@@ -5,8 +5,7 @@
 ## Setup:
 1. Fork this repository
 2. Clone the repo:
-    - If you are on a Mac, `git clone` your forked version of the repository and work locally
-    - If you are on a PC, open up your repositories in Cloud9, and clone your forked repo to work on it.
+    - Open up your Repositories tab in Cloud9, and clone this repo as a new workspace.
 4. `commit` often and `push` periodically!
 
 ---

@@ -20,7 +20,7 @@ You will need to track your current question, your current score, and your answe
 
 ### Front-End Layout and Style
 
-Use BEM naming conventions, CSS, and Flexbox to achieve the following compositions:
+Use CSS and Flexbox to achieve the following compositions:
 
 First page:
 ![quiz first page](http://i.imgur.com/a5tRC1D.jpg)
