@@ -4,7 +4,7 @@
 
 	$current_score = $_GET["current_score"];
 
-	if ($_GET["answer"] == $answers[3]) {
+	if ($_GET["answer"] == $answers[2]) {
 		$current_score += 1;
 	}
 
@@ -12,8 +12,18 @@
 
 <!DOCTYPE html>
 <html>
+ 
 <head>
+<link rel="stylesheet" href="style.css">
 	<title></title>
+	 <div class="head">
+    <h6>4 QUESTIONS</h6>
+  </div>
+  
+  <div class="line">
+    <hr></hr>
+  </div>
+  
 </head>
 <body>
 

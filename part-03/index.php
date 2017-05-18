@@ -30,7 +30,7 @@
 		// incremement the current question by 1.
 	}
 
-	// if ($current_question == (count($quiz))) {
+	if ($current_question == (count($quiz))) {
 		$last_question = true;
 	} else {
 		$last_question = false;
