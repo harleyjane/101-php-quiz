@@ -27,10 +27,14 @@
 	<div class="answer">
 		<form action="question2.php">
 			<input type="radio" name="answer" value="A">A<br>
+			<hr>
 			<input type="radio" name="answer" value="B">B<br>
+			<hr>
 			<input type="radio" name="answer" value="C">C<br>
+			<hr>
 			<input type="radio" name="answer" value="D">D<br>
-			<input type="submit" value="Next Question">
+			<hr>
+			<input class="nextbutton" type="submit" value="Next Question">
 		</form>
 	</div>
 

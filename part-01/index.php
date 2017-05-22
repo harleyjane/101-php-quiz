@@ -15,9 +15,7 @@
     <h6>4 QUESTIONS</h6>
   </div>
   
-  <div class="line">
-    <hr></hr>
-  </div>
+    <hr class="line">
   
   	<div class="quiz-title">
 		 <h1>Feng Shui Colors</h1>
@@ -31,5 +29,6 @@
 		<a href="question1.php">START</a>
 	</div>
   
+ 
 </body>
 </html>

@@ -2,7 +2,8 @@ body {
     font-family: sans-serif;
     color: white;
     background-color: #78CFCE;
-    text-align: center;   
+    /*text-align: center; */
+
 }
 .head {
     font-size: small;
@@ -10,21 +11,24 @@ body {
     justify-content: center;
     color: #bee; 
 }   
-.line {
-    padding: 0px;    
-} 
 .question {
     font-family: sans-serif;
     color: white;
     background-color: #78CFCE;
     text-align: left; 
 }    
+.line {
+ width: 100%;
+height: 2px;
+background-color:#FF0066;
+color:#FF0066;
+} 
 .quiz-subtitle {
     padding-right: 50px;
     padding-bottom: 15px;
     color:#bee;
 }
-.button a {
+.button {
     background-color: white;
     border-radius: 30px;
     padding: 15px 32px;
@@ -34,8 +38,17 @@ body {
     color: #77bf93;
     text-decoration: none;
     text-align: center;
+    justify-content: center;
 }
-.form {
-
+.nextbutton {
+    justify-content: center;
+    background-color: white;
+    border-radius: 30px;
+    padding: 15px 32px;
+    box-shadow: 3px 3px 3px #c1c1c1;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #77bf93;
+    text-decoration: none;
 }
-    
+   
